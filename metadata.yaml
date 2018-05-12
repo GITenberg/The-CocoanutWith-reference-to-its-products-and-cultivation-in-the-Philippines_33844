@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36700'
     url: http://www.gutenberg.org/2009/agents/36700
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33844#The-CocoanutWith-reference-to-its-products-and-cultivation-in-the-Philippines
 gutenberg_issued: '2010-10-07'
 gutenberg_type: Text
 identifiers:
