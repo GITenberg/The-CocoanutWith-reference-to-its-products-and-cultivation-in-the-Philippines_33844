@@ -1,0 +1,30 @@
+_repo: The-CocoanutWith-reference-to-its-products-and-cultivation-in-the-Philippines_33844
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lyon, William Scrugham
+    alias: Lyon, William S. (Scrugham)
+    birthdate: 1852
+    deathdate: 1916
+    gutenberg_agent_id: '36700'
+    url: http://www.gutenberg.org/2009/agents/36700
+description: ''
+gutenberg_issued: '2010-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Dept. of Agriculture. Farmers' bulletin no. 8
+subjects:
+- !lcsh 'Coconut products -- Philippines'
+- !lcc 'SB'
+- !lcsh 'Coconut -- Philippines'
+- !lcsh 'Coconut palm -- Philippines'
+title: 'The Cocoanut: With reference to its products and cultivation in the Philippines'
+url: http://www.gutenberg.org/ebooks/33844
